@@ -10,6 +10,10 @@
 - 📫 How to reach me **contact@erusel.fr**
 
 <h3 align="left">Connect with me:</h3>
+
+- Discord : **Erusel#5133**
+- Mail : contact@erusel.fr
+
 <p align="left">
 </p>
 
