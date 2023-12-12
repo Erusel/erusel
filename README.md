@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Erusel</h1>
 <h3 align="center">A passionate Java developer from France</h3>
 
-- 🔭 I’m currently working on [Tensura Game](https://docs.erusel.fr/tensuragame/)
+- 🔭 I’m currently working on Tropimon
 
 - 🌱 I’m currently learning **C++ and Fabric**
-
-- 👨‍💻 All of my projects are available at [https://erusel.fr/Portfolio.html](https://erusel.fr/Portfolio.html)
 
 - 📫 How to reach me **contact@erusel.fr**
 
 <h3 align="left">Connect with me:</h3>
 
-- Discord : **Erusel#5133**
+- Discord : **erusel**
 - Mail : contact@erusel.fr
 
 <p align="left">
