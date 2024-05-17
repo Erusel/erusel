@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Tropimon
 
-- 🌱 I’m currently learning **C++ and Fabric**
+- 🌱 I’m currently learning **C++
 
 - 📫 How to reach me **contact@erusel.fr**
 
