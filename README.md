@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erusel</h1>
 <h3 align="center">A passionate Java developer from France</h3>
 
-- 🔭 I’m currently working on Tropimon
+- 🔭 I’m currently working on Tropimon and Cobblemon
 
-- 🌱 I’m currently learning **C++
+- 🌱 I’m currently learning SysAdmin
 
 - 📫 How to reach me **contact@erusel.fr**
 
