@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erusel</h1>
 <h3 align="center">A passionate Java developer from France</h3>
 
-- 🔭 I’m currently working on Cobblemon
+- 🔭 I’m currently working on Tropimon & Cobblemon
 
 - 📫 How to reach me **contact@erusel.fr**
 
